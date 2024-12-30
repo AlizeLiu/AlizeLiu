@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @AlizeLiu
-- 👀 I’m now study in Shanghai Jianqiao University computer science and technology
-- 🌱 I’m currently learning go
-<!---
-AlizeLiu/AlizeLiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+个人经历：
+2020.9-2024.6 Shanghai Jianqiao University Computer Science and Technology
+
+工作经历：
+2024.3-2024.6 京东科技（实习）
