@@ -5,4 +5,4 @@
 
 工作经历：
 -
-- 2024.3-2024.6 JD Technology（实习） - Golang developing
+- 2024.3-2024.6 JD Technology - Golang developing
